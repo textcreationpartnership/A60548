@@ -1,0 +1,430 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Light out of darkness in a sermon preached before the Right Honourable Sir Robert Clayton, Kt., Lord Mayor of the city of London, in Guild-hall Chappel, the 26th of Sept. 1680 : wherein are contained, rules how to support our selves under dark providences, when they seem to supercede divine promises : also, directions how to obtain a prospect of serene and happy times / by Samuel Smith ...</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60548</idno>
+            <idno type="STC">Wing S4201</idno>
+            <idno type="STC">ESTC R3482</idno>
+            <idno type="EEBO-CITATION">12083599</idno>
+            <idno type="OCLC">ocm 12083599</idno>
+            <idno type="VID">53672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53672)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 580:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Light out of darkness in a sermon preached before the Right Honourable Sir Robert Clayton, Kt., Lord Mayor of the city of London, in Guild-hall Chappel, the 26th of Sept. 1680 : wherein are contained, rules how to support our selves under dark providences, when they seem to supercede divine promises : also, directions how to obtain a prospect of serene and happy times / by Samuel Smith ...</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>[5], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. James, for William Leach ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 34.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Zechariah XIV, 7 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:53672:1"/>
+            <opener>
+               <signed>Clayton Mayor.</signed>
+               <dateline>
+                  <date>Martis xix. die <hi>Octob.</hi> 1680. An<g ref="char:EOLhyphen"/>noque Regni Regis <hi>CAROLI</hi> Secundi <hi>Angliae,</hi> &amp;c. xxxii.</date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Smith</hi> to Print his Sermon lately Preach<g ref="char:EOLhyphen"/>ed at the <hi>Guild-Hall</hi> Chappel, before the Lord Mayor and Aldermen.</p>
+            <closer>
+               <signed>Wagſtaff.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:53672:1"/>
+            <p>
+               <hi>LIGHT out of DARKNESS.</hi> IN A SERMON PREACHED before the Right Honourable Sir <hi>ROBERT CLAYTON</hi> K<hi rend="sup">t.</hi> LORD MAYOR OF THE CITY of <hi>LONDON,</hi> In <hi>G<g ref="char:V">Ʋ</g>ILD-HALL</hi> Chappel, The 26th of <hi>Sept.</hi> 1680.</p>
+            <p>On <bibl>Zech. XIV. 7.</bibl> 
+               <q>In the Evening it ſhall be Light.</q>
+            </p>
+            <p>Wherein are Contained, Rules how to ſupport our Selves under Dark Providences, when they ſeem to ſupercede Divine Promiſes.</p>
+            <p>Alſo, Directions how to obtain a Proſpect of Serene and Happy Times.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL SMITH,</hi> Ordinary of <hi>Newgate,</hi> formerly Fellow of St. <hi>John Baptiſt</hi>'s Colledge in <hi>Oxford.</hi>
+            </p>
+            <q>
+               <bibl>Pſal. 9<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2.</bibl> Clouds and thick Darkneſs are round about him, yet Righteouſneſs and Judgment are the Habitation or Stability of his Throne.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. James,</hi> for <hi>William Leach,</hi> at the Crown in <hi>Cornhill.</hi> M.DC.LXXX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53672:2"/>
+            <pb facs="tcp:53672:2"/>
+            <head>To the Right Honourable Sir <hi>ROBERT CLAYTON,</hi> K<hi rend="sup">t.</hi> LORD MAYOR, AND THE COURT of ALDERMEN.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT is Safe and very Commendable, for every Magiſtrate to take the proſpect of his Duty from the Watch-tower of Circumſpection, by con<g ref="char:EOLhyphen"/>ſulting the Infallible Oracle of the holy Scriptures.</p>
+            <p>Herein it is promiſed to ſuch who fear the Lord, that in difficult Times, and in perplexing Doubts, he will guide them in untrodden Paths, and make the darkeſt Diſpenſations of his Providence, if not plain and clear before them, yet comfortable in the Iſſue.</p>
+            <p>Your Honour hath ſignalized your Wiſdom, Courage, and Fidelity, in the happy Conduct of this Renowned Metropolis, under the Banner of Truth and Peace. Yet the <hi>Jews</hi> ſay, <hi>That God gives no man the Title of Saint, until he be dead.</hi>
+            </p>
+            <p>So needful is perſeverance in a courſe of Piety and Righteouſneſs, not only to make a Magi<g ref="char:EOLhyphen"/>ſtrates Fame ſurvive and ſpread unto Poſterity; but alſo, to beget an univerſal Spring in Vertue, by the impregnating influence of his good Example.</p>
+            <p>While Vulgar minds have turned Giddy, and ſordidly complied with Factious Novelty; your Ho<g ref="char:EOLhyphen"/>nour,
+<pb facs="tcp:53672:3"/>as another <hi>Ariſtides,</hi> hath cleaved to Prin<g ref="char:EOLhyphen"/>ciples of <g ref="char:V">Ʋ</g>prightneſs, amidſt all Commotions in Church and State.</p>
+            <p>As you were unanimouſly choſen to ſit in the Pretorian Chair, ſo you have in every reſpect diſ<g ref="char:EOLhyphen"/>charged that Duty, which correlates to ſo high and weighty a Truſt.</p>
+            <p>Neither the Syrene Charms of Popular Ap<g ref="char:EOLhyphen"/>plauſe, have puft you up, in your ſteady Impartial Adminiſtration of Juſtice, joyned with the Amia<g ref="char:EOLhyphen"/>bility of Moderation.</p>
+            <p>Nor hath the fear of rude Clamors, made any impreſſion upon your undaunted Fidelity, to ſlacken the Rains, or betray the prudent Ends of Government.</p>
+            <p>May your Lordſhip, with the reſt of thoſe Wor<g ref="char:EOLhyphen"/>thy Senators, who influence the publick Counſels of this Metropolis, as Patrons of Righteouſneſs, and Patterns of Loyalty, be ſhielded by the Su<g ref="char:EOLhyphen"/>preme Governor of the World: May the preſent and future Generations, pay due Reverence to You, by a grateful remembrance of your conſtant Solicitude and exemplary Endeavours, in promo<g ref="char:EOLhyphen"/>ting the Tranquillity and Felicity of this Renown<g ref="char:EOLhyphen"/>ed City; which is, and ſhall be, the hearty Pray<g ref="char:EOLhyphen"/>er of him, who continues to be</p>
+            <closer>
+               <signed>Your Honours moſt humble and devoted Servant, <hi>SAMUEL SMITH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:53672:3"/>
+            <epigraph>
+               <bibl>ZECH. XIV. 7.</bibl>
+               <q>In the Evening it ſhall be Light.</q>
+            </epigraph>
+            <p>THe infinite Wiſdom of the Supreme Governor of the World, hath in all Ages judged it neceſſary, to ſet forth ſome Providences of ſuch wonderful Intrica<g ref="char:EOLhyphen"/>cy, as may exerciſe the utmoſt vigour of Chriſtian Faith and Patience. The moſt ex<g ref="char:EOLhyphen"/>quiſite ſearch of Humane Reaſon, is utterly incapable of comprehending their myſterious ſcope and tendency.</p>
+            <p>Therefore, the Lord to prevent all repining Prejudices againſt his dark Diſpenſations, hath furniſhed us with this foundation of Support, <hi>That in the Evening it ſhall be Light.</hi>
+            </p>
+            <p>
+               <hi>This Evening,</hi> may partly be meant of the laſt Age of the Chriſtian Church, when the <hi>Jews</hi> ſhall be converted to their Meſſiah; which ſhall be as a miraculous Reſtauration from the Dead.</p>
+            <p>This ſhall not be a mixt day of Brightneſs ſtained with Darkneſs, but one Entire day, in
+<pb n="2" facs="tcp:53672:4"/>an uninterrupted flux of Grace and Mercy.</p>
+            <p>If it were capable of any Evening, that very Declining time, or Twilight, ſhall be ac<g ref="char:EOLhyphen"/>counted full of Brightneſs.</p>
+            <p>This is a Truth: But I rather underſtand <hi>this Evening,</hi> to be the whole Series, or Cur<g ref="char:EOLhyphen"/>rent of Divine Providence, which by Inter<g ref="char:EOLhyphen"/>vales, will be mixt with much Gloomineſs, as to miſapprehenſions about the ſcope or ten<g ref="char:EOLhyphen"/>dency of Cloudy Times upon the Chriſtian Churches; groſs Darkneſs ſhall cover the Earth, by the Apoſtacy of many Profeſſors; and Debauchery ſhall ſpread, as a righteous puniſhment on ſuch Apoſtacy,</p>
+            <p>Hereupon, the Providences of God will be<g ref="char:EOLhyphen"/>come dark and ſeverely dreadful, in a ſeeming Reduction of the Times to a Diſmal Chaos of Confuſion.</p>
+            <p>Notwithſtanding, in the Evening, when Darkneſs ſeems to grow more and more to a perfect Midnight, yet even then, <hi>it ſhall be Light.</hi>
+            </p>
+            <p>The Obſervation from the Text is this, It is the Lord's uſual Method, not to give out any comfortable proſpect of the ſafe and hap<g ref="char:EOLhyphen"/>py iſſue of dark diſmal Providences, till the Caſe be deſperate in appearance.</p>
+            <p>This great Truth, 1. I ſhall demonſtrate from Scripture Inſtances and Examples.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:53672:4"/> 2. I ſhall ſhew the reaſons, why the Lord de<g ref="char:EOLhyphen"/>livers not, till Diſtreſſes run out into Extremities.</p>
+            <p n="3">3. I ſhall ſet before you ſome Rules, how to interpret Dark Providences, for your Support under them.</p>
+            <p n="4">4. I ſhall ſtate ſome Directions, how we may gain a Proſpect of Bright and Happy times, when we are wrapt up in a Night of Trial and Diſtreſs.</p>
+            <p n="5">5. I ſhall make an Improvement of the whole, by inferring what our Duty is, upon the fulfil<g ref="char:EOLhyphen"/>ling of ſo grand a Priviledg; <hi>That in the Evening, it ſhall be Light.</hi>
+            </p>
+            <p>Scripture Inſtances to demonſtrate the truth of this comfortable Aſſertion.</p>
+            <p n="1">1. After <hi>Adam</hi>'s grand Apoſtacy, when he ſtood trembling at the Serpents doom, inferring that his own ſhould be more ſevere, yet behold, the Judg himſelf turns Advocate: The Curſe upon Satan, is interwoven with the dawning of reſtoring Grace to rebellious man, in this Fundamental Promiſe; <hi>The Seed of the Woman, ſhall break the Serpents head.</hi>
+            </p>
+            <p n="2">2. In that terrible Night-Viſion, wherein the Lord Covenanted to deliver <hi>Abraham</hi>'s Seed out of <hi>Egyptian</hi> Bondage, there was preſented a ſhi<g ref="char:EOLhyphen"/>ning Lamp in the midſt of a ſmoaking Furnace; as an aſſuring Pledg, That though they had lain among the Pots, yet they ſhould become as the Wings of a Dove covered with Silver, in an in<g ref="char:EOLhyphen"/>nocent,
+<pb n="4" facs="tcp:53672:5"/>ſpeedy, and beautiful Reſtauration from the Severity of their Servitude.</p>
+            <p n="3">3 When the <hi>Jews dry Bones</hi> were kick'd about in ſcorn, then the Lord miraculouſly opened the Sepulcher of their long confirmed Captivity, and reſtored them with ſplendor, as laden with Treaſure to rebuild the Temple.</p>
+            <p>Thus a Nation was born to Freedom in one day, and exalted to Safety by a new Creation.</p>
+            <p n="4">4 Was there not a Midnight of Superſtition, and abounding Corruptions in the <hi>Jewish Church</hi> and <hi>State,</hi> when the Scepter was departed from them? What hope was there that ever this Cloud ſhould be diſpelled? Yet, even theſe Miſts of Darkneſs uſhered in the Day-ſtar, <hi>Chriſt Jeſus,</hi> to enlighten the <hi>Gentiles,</hi> and become the Glory of his People <hi>Iſrael.</hi>
+            </p>
+            <p>Let me give you one Inſtance more in your own Experience, Was not a thick Cloud on the Eye of the Cleareſt Underſtanding, to conceal from us the proper Means of Slackning or Ex<g ref="char:EOLhyphen"/>tinguiſhing that Dreadful Conflagration, which burſt out to the Conſumption of all our preci<g ref="char:EOLhyphen"/>ous and delectable Injoyments?</p>
+            <p>And yet, even then, we were hid in the midſt of a Devouring Fire; So preſerved, that the Sons of Violence durſt not in that Extremity, take the Advantage to aſſault our Perſons; thereby to out-act the Cruelty of the Flames. Is not our
+<pb n="5" facs="tcp:53672:5"/>City revived, as a Phoenix, out of its very Ruins? Built fairer and firmer by an Awful and Won<g ref="char:EOLhyphen"/>derful Reſtauration?</p>
+            <p>Surely, Its very Duſt was precious to that God, whoſe Good-will continued to dwell in the Flaming Buſh, to give it a freſher <hi>Verdure.</hi>
+            </p>
+            <p>May this City of Solemnities become a Pat<g ref="char:EOLhyphen"/>tern of Reformation to the whole Nation. This will ſtrike a Terror into Reſtleſs Incendiaries, who even execrate our greater Luſtre, as the Center of the Lords delight.</p>
+            <p>I hope the Envious Viperous Brood of <hi>Jeſuits,</hi> who are ſtudious in contriving Miſchief, ſhall never effect our Second Deſolation.</p>
+            <p>And that, while we cleave to the Lord in our Integrity, there ſhall be a Covering of Defence upon all our Glory.</p>
+            <p>However, If any Cloud of Malice ſhould ſtain and darken the Beauty of our preſent Pro<g ref="char:EOLhyphen"/>ſperity, yet the Moſt High hath Wiſe and Gra<g ref="char:EOLhyphen"/>cious Ends, in permitting Diſtreſſes to exſpati<g ref="char:EOLhyphen"/>ate into Amazing Extremities, before he appear to check them. I ſhall briefly mention ſome of them.</p>
+            <p n="1">1 Hereby the Lord humbles and tries us, to fit us for Comfort. Thus he led <hi>Iſrael</hi> thorow Fire and Water, the moſt Forlorn Diſtreſſes; yet, when they bowed with Submiſſion to his Will, he brought them forth into a Wealthy Land.</p>
+            <pb n="6" facs="tcp:53672:6"/>
+            <p> His Delays are no Denials, nor Arguments of Inſufficiency to Help, but only Whets to the Importunity of Prayer, a Touch-ſtone to try the Sincerity and Vivacity of Faith, Love, Self-de<g ref="char:EOLhyphen"/>nial, and Obedience.</p>
+            <p n="2">2 <hi>Reaſ.</hi> Hereby he makes the Mercy of Deli<g ref="char:EOLhyphen"/>verance appear more Glorious. He beautifies the Work of Salvation, while it is interwoven with Difficulties. Prepaired Mercies are longer before they be exhibited. As they are curiouſly framed with deeper Impreſſions of Wiſdom and Power, ſo they would not be diſpenſed with faithfulneſs, were they entailed upon ſuch, who cannot wait the Lords leiſure of Beſtowing them.</p>
+            <p n="3">3 <hi>Reaſ.</hi> Sudden Help doth not ſo deeply af<g ref="char:EOLhyphen"/>fect with Thankfulneſs, nor advance the Heart to ſo high a Pitch in Duty. We prize what we obtain with Difficulty.</p>
+            <p n="4">4 <hi>Reaſ.</hi> It is Wiſdom in God to ſtraiten be<g ref="char:EOLhyphen"/>fore he relieve us, leaſt we ſhould aſcribe Inlarge<g ref="char:EOLhyphen"/>ment to our ſelves.</p>
+            <p>The Uſe ſerves for Information: Thus,</p>
+            <p>Under all Extremities of Affliction and ſeem<g ref="char:EOLhyphen"/>ing Ruins of the Church, there lies hid the Semi<g ref="char:EOLhyphen"/>nal Hope of an Happy Reſtitution; which may command a dreadful Reſtraint in Enemies, and a Venerable Eſteem from Friends.</p>
+            <p>Thoſe Planets have the ſweeteſt and moſt be<g ref="char:EOLhyphen"/>nigne
+<pb n="7" facs="tcp:53672:6"/>Influence, which are of the ſloweſt Mo<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Let not therefore the Suſpenſion of Gods Help, breed any Suſpicion of his Love; be<g ref="char:EOLhyphen"/>cauſe the choiceſt Exhibitions of Mercy are de<g ref="char:EOLhyphen"/>tained a while, that the Beauty and Bounty of them may gratifie our patient Waiting for them.</p>
+            <p>Uſually all the <hi>Benjamins</hi> of Mercy, are firſt <hi>Benonies</hi> of Miſery.</p>
+            <p>We many times meet with Storms, which hazard a Shipwrack, before precious Gems and Fragrant Spices unlade themſelves into our Bo<g ref="char:EOLhyphen"/>ſome.</p>
+            <p>
+               <hi>Sampſon</hi>'s Honey Comb was the more plea<g ref="char:EOLhyphen"/>ſant, becauſe taken by Conflict out of the Car<g ref="char:EOLhyphen"/>caſe of a Lion; ſo Mercies relliſh ſweeteſt, when taken out of the Bowels of the moſt affrighting Providence.</p>
+            <p>The Lord ſettles his Church, by ſhaking It, that ſo the Deſire of all Nations might Center in Chriſt, under whoſe Banner only, they can poſſeſs a Secure and Glorious Reſting Place.</p>
+            <p>Be perſwaded then, to act this Life of Faith. O the Uſefulneſs and admirable Effects thereof! This ſcatters our Fears, raiſes our Courage, che<g ref="char:EOLhyphen"/>riſhes our Hope, ſilences our Repining, ſpiritu<g ref="char:EOLhyphen"/>allizes our Duties, evidences the Truth and Strength of Love; brings Light out of Darkneſs, Life out of Death.</p>
+            <pb n="8" facs="tcp:53672:7"/>
+            <p> Faith is the Parent of Self-reſignation to God's Supreme Wiſdom, which makes the Soul to expect Comfort in his Time and Method; It prevents any Contrivance how we may free our ſelves at once of all Diſcontentedneſs, by any prepoſterous or unjuſtifiable Expedient.</p>
+            <p>Faith tramples on all the broken Reeds of Creature-props and Dependences.</p>
+            <p>It abhors the thoughts of Complying with ſuch Sacriledge to God's Diſhonour, as to accept of any Creature to become bound with infinite Strength and unchangeable Faithfulneſs, for the fulfilling of any Promiſe.</p>
+            <p>Therefore, in all Straits, ſuppreſs the ſhifting Life of Senſe.</p>
+            <p>This is much like the Sick mans turning from one ſide of the Bed unto the other. It may give a little eaſe, or palliated Cure for the preſent, but cannot root out the habituated Diſtem<g ref="char:EOLhyphen"/>per of Diſcontent with our Condition. Judging by Senſe is a low-ſpirited-life, which produceth nothing but airy expectation from the Creature, and ſo loſes that very Comfort which it ſeeks, with an impetuous Impatiency.</p>
+            <p>Rather maintain Serenity in your Mind, by Invigorating the Heroical Acts of Faith. This will not leave you Floating on a dark Sea, but will Pilot you to Chriſt in the Promiſe, as a ſecure Harbour. Therefore, amidſt all Storms and
+<pb n="9" facs="tcp:53672:7"/>Rocks, let this ſteer and over-rule your Courſe.</p>
+            <p>But you will ſay, May not the Providences of God ſeem to thwart or ſupercede his Promiſes? When theſe are very Gloomy and Tremendous, how ſhall we do to ſupport our ſelves, or to de<g ref="char:EOLhyphen"/>mean our ſelves ſo, as not to cenſure them, out of Ignorance or Diſcontent?</p>
+            <p>To ſupport our Hearts under diſmal myſteri<g ref="char:EOLhyphen"/>ous Diſpenſations, conſider theſe Rules and Di<g ref="char:EOLhyphen"/>rections.</p>
+            <p n="1">1. <hi>Rule.</hi> You muſt know in the general, that it is God's Prerogative to keep ſecret (for ſome Tract of Time) the ultimate ſcope of his Ob<g ref="char:EOLhyphen"/>lique and Circulate Diſpenſations; He will ſet forth ſome Occurrences, to puzzle Senſe, to ſi<g ref="char:EOLhyphen"/>lence Carnal Reaſon, to abate the ſwelling of a proud Heart. That ſo, man by his moſt curious ſearch, may not find out any thing, which God is reſolved to lock up in his own Breaſt. Beſides, if every Providence did run in a ſmooth Chan<g ref="char:EOLhyphen"/>nel, where were any Trial of the Faith and Pa<g ref="char:EOLhyphen"/>tience of the Saints?</p>
+            <p>Yea, the moſt Cloudy and Dreadful Caſes, ſerve to make up the Beauty of God's Govern<g ref="char:EOLhyphen"/>ment, as White and Black Marble intermixt, makes Checquer-Work the more admired.</p>
+            <p>Though Duſt and Rubbiſh fly in our Eyes, while the Lord is fitting and polliſhing the rug<g ref="char:EOLhyphen"/>ged Materials of his Temple, yet we ſhall ſee
+<pb n="10" facs="tcp:53672:8"/>clearly the glorious Contrivance of the com<g ref="char:EOLhyphen"/>pleat Structure, when the Scaffolds of our Self-conceited-Models which raiſe Pride and Preju<g ref="char:EOLhyphen"/>dice, are totally removed.</p>
+            <p>There is a ſecret Harmony betwixt Providence and Providence. Theſe, like Fiery Exhalations, ſeem to claſh; yet, as to the main Deſign of God, they combine to the Stability of our Faith, and the Reward of our Duty in a patient waiting for their appointed Iſſue.</p>
+            <p>The Lord can make the Lion and the Lamb Cohabitate, allay the contrariety of jarring Ele<g ref="char:EOLhyphen"/>ments, by commanding them into an amicable and happy League.</p>
+            <p>He can ſo over-rule all bluſtering Animoſi<g ref="char:EOLhyphen"/>ties, that they ſhall not overſet his main Deſign; but conſpire to haſten it to its deſired Port: Thus, by variety, the Wheels in Clock-work ſeem to croſs each other, yet, all help forward the univerſal motion, for the regular pointing out of ſuch ſet Seaſons, which beſt are fitted to the accompliſhment of our Purpoſes.</p>
+            <p>Therefore, as the <hi>Iſraelites</hi> readily marcht af<g ref="char:EOLhyphen"/>ter the Pillar of the Cloud in the Wilderneſs; ſo, muſt we follow the Lord's Conduct without repinings, upon the bare ſight of our Warrant, though we know not a ſtep of the way.</p>
+            <p n="2">2. <hi>Rule.</hi> When there is not any particular Promiſe which faces and ſuits to a dark Provi<g ref="char:EOLhyphen"/>dence,
+<pb n="11" facs="tcp:53672:8"/>yet the main Body of the Promiſes (which are the Common Places or Repoſitories of a Chriſtians Comfort) may become as a Conſtel<g ref="char:EOLhyphen"/>lation, to guide us when we are Toſt upon the darkeſt Ocean.</p>
+            <p n="3">3. <hi>Rule.</hi> Treaſure up the Experiences of for<g ref="char:EOLhyphen"/>mer Ages, thoſe will hold us up from fainting in Extremities, ſo that we ſhall not charge God fooliſhly.</p>
+            <p>Awake, awake, O Arm of the Lord, put on Strength as in the Ancient times, as in the Ge<g ref="char:EOLhyphen"/>nerations of Old: <hi>Art not thou he, who haſt wound<g ref="char:EOLhyphen"/>ed</hi> Rahab, <hi>or</hi> Egypt, <hi>and cut in pieces the Dragon, or</hi> Pharaoh <hi>in the Red Sea;</hi> Iſa. 51.9, 10, 11.</p>
+            <p>It is very obſervable, That the Lord gave that unruly Death-threatning Leviathan, to become Food, to ſtrengthen the Faith of the <hi>Iſraelites.</hi> diſtreſſed afterward in the Wilderneſs, <hi>Pſal.</hi> 74.9, <hi>to</hi> 15.</p>
+            <p>Yea, when the Church in <hi>Babylon</hi> lamented, that they ſaw not their Signs, nor had any Pro<g ref="char:EOLhyphen"/>phet among them to give them any Proſpect of Hope, that they ſhould be delivered; yet, they drew an Argument to relieve their deſponding Thoughts, from the Interchangeable, yet con<g ref="char:EOLhyphen"/>ſtant orderly Courſes of the Night and Day, of Winter and Summer.</p>
+            <p>Thus they Reaſoned: <hi>Is not the Day thine, as well as the Night? Thou haſt prepared the Light, and the Sun.</hi>
+            </p>
+            <pb n="12" facs="tcp:53672:9"/>
+            <p> Yea, the darkneſs of the Night, ſets off the beauty of the Morning Light, and makes it to be more wonderfully accepted.</p>
+            <p>Thus ought Chriſtians, not Idlely to behold the Face of the Heavens, but to make an Im<g ref="char:EOLhyphen"/>provement of the Stationary Courſes of the Sea<g ref="char:EOLhyphen"/>ſons of the Year: We may fetch Relief to our drooping Thoughts, from God's Covenant in Nature, to confirm our Faith in his Redeeming Love, as to the expectation of ſpecial Grace and Mercy.</p>
+            <p>It is very obſervable, That the Pſalmiſt in Pa<g ref="char:EOLhyphen"/>rallel Alluſion, ſays, <hi>Thy Mercy, O God, reaches to the Heavens, and thy Truth, or Faithfulneſs, to the Clouds.</hi>
+            </p>
+            <p>The Lord ſuffers theſe to gather, and grow big with Black Vapours, even unto a Boiſterous Conteſt; yet in their Diſſolution, they perform a Kindneſs in Watering the dry Furrows of the Earth, to make them Smile with a Fruitful Ver<g ref="char:EOLhyphen"/>dure.</p>
+            <p>So the Saints Graces, which ſeemed Impriſon<g ref="char:EOLhyphen"/>ed in an Earthly obdurate Heart, being bedewed with Afflictions, bud afreſh with a lovely Luſtre.</p>
+            <p>In all Diſtreſſes therefore, let us thus argue, If the Lord order the Contrariant Seaſons of Na<g ref="char:EOLhyphen"/>ture, to conſpire in a mutual Benefit to the Uni<g ref="char:EOLhyphen"/>verſe, will he not much more exerciſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a tender Care over his Church, for whoſe ſake, the whole
+<pb n="13" facs="tcp:53672:9"/>Creation is guided with a ſteady unerring Hand; even in ſuch Changes which ſometimes ſtagger the Faith, and tire out the Patience of his Afflicted Servants?</p>
+            <p>Hence I infer, That when one Providence is complicated within the myſterious Darkneſs of another, Then, the Word of Promiſe muſt be our. Staff to lean on, and the Precept our Rule to Walk by.</p>
+            <p>The moſt Conflicting Diſtreſſes which croſs our Hopes and Deſires, oftentimes ripen the Promiſes, to the furtherance of God's Deſign.</p>
+            <p>Thus, <hi>Joſeph</hi>'s being ſold into <hi>Egypt,</hi> made way for his Advancement in <hi>Pharaoh</hi>'s Court: The Intombing of <hi>Jonah</hi> in the Whales Belly, buried him into Life; It gained Reverence to his Perſon, being Miraculouſly preſerved, and the Demorage of his Embaſſage, (himſelf being plunged into the heart of the Sea) made his Letters Credential to be better atteſted and be<g ref="char:EOLhyphen"/>lieved.</p>
+            <p n="4">4. <hi>Rule.</hi> When Providences are Dark, Pray<g ref="char:EOLhyphen"/>er muſt joyn Iſſue to clear them up; This is the readieſt, moſt dexterous Key to uncypher theſe Myſterious Characters, in the profound mean<g ref="char:EOLhyphen"/>ing of them.</p>
+            <p>Eſpecially when you have an Eye of depen<g ref="char:EOLhyphen"/>dency on Chriſts prevalent Interceſſion, for this very purpoſe.</p>
+            <pb n="14" facs="tcp:53672:10"/>
+            <p> Worthy is the Lamb ſlain, who Purchaſed the Promiſes, and Ratified them in his Blood<g ref="char:EOLhyphen"/>ſhed, to open the Sealed Book of Providential Myſteries.</p>
+            <p>The Lord would loſe the Glory of his Works, if they ſhould alway be concealed, as illegible Characters, which none could underſtand; Therefore, he hath ordained the Spirit of Prayer, to illuſtrate dark Prophetical Paſſages recorded for future Comfort.</p>
+            <p>Now, if Prayer obtain not a ſpeedy ſatisfacti<g ref="char:EOLhyphen"/>on to our Doubts, yet our Hearts ſhall be qui<g ref="char:EOLhyphen"/>eted with this Conſideration, <hi>That all things ſhall work together for good, to ſuch who fear the Lord.</hi>
+            </p>
+            <p>Therefore, Genuine Chriſtians will wait, till the whole Platform of God's Government, amidſt all Viciſſitudes of Changes, ſhall be preſented in One view.</p>
+            <p>This will certainly be unfolded in the World to come. Then, <hi>Shall we know as we now are known:</hi> That is, We ſhall plainly ſee the true Rea<g ref="char:EOLhyphen"/>ſon, why the Lord vail'd his Providential Actings, as if he had forgotten to be Gracious.</p>
+            <p>Yea, we ſhall acknowledge, that he could not have taken a fitter, wiſer Courſe, to bring us to a bleſſed Station, than by the way of his dread<g ref="char:EOLhyphen"/>ful Rebukes, when we grew wanton with Mer<g ref="char:EOLhyphen"/>cies, and froward in our Sins.</p>
+            <p n="5">5 <hi>Rule.</hi> When you cannot follow God in
+<pb n="15" facs="tcp:53672:10"/>untrodden paths of Providence, yet conſider, it is good and ſafe, to draw nigh to him, in your undoubted Duty.</p>
+            <p>Reſolve therefore, tho he whiſper not all his Secrets into thine Ear, yet he ſhall be ſure of the Obedience of the Heart.</p>
+            <p>Perſevere in ſeeking the Beauty of his Face, when thou canſt not participate of his Bounty, nor find out the intricate Windings of his Works.</p>
+            <p>Conform to his Known Will, when thou canſt not ſpell out his Secret Decrees and Pur<g ref="char:EOLhyphen"/>poſes.</p>
+            <p n="6">6 <hi>Rule.</hi> Juſtifie God as holy in all his Ways, and righteous in all his Works, when you can<g ref="char:EOLhyphen"/>not judge poſitively concerning them; <hi>Pſal.</hi> 97.2. <hi>Clouds and thick Darkneſs are round about him, yet Righteouſneſs and Judgment are the Ha<g ref="char:EOLhyphen"/>bitation of his Throne:</hi> That is, Equity, Wiſdom, and Moderation, are the Stability of his Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>How awful and yet ſerene Majeſty, is reſi<g ref="char:EOLhyphen"/>dent in the Lord, while he wraps himſelf up in moſt dreadful Appearances.</p>
+            <p>He ranks theſe Clouds, while they conteſt, and rides on the Wings of the Wind, giving a Law unto them, while they threaten to over<g ref="char:EOLhyphen"/>whelm us with a Storm. Many times, Dark Ad<g ref="char:EOLhyphen"/>miniſtrations are the Duſt of his Feet, which
+<pb n="16" facs="tcp:53672:11"/>he raiſes in order to his merciful approaches towards us: Therefore ſpeak honourably of the Lord, when you are at the loweſt, in point of Hope and Help.</p>
+            <p>Wherein you cannot diſcover God clearly, it will be your Duty, Modeſty, and Safety, to be devoutly blind.</p>
+            <p n="7">7 <hi>Rule.</hi> Though Providences ſhould be Gloomy and Dreadful, yet be not diſcouraged, becauſe the moſt Startling Appearances of God, have uſually uſhered in the moſt Remarkable Degrees of Peace and Eſtabliſhment unto the Church; <hi>Jer.</hi> 30.5, 6, 17. <hi>Jer.</hi> 33.6, 10, 11. <hi>Zech.</hi> 13.8, 9. <hi>Pſal.</hi> 71.20, 21. <hi>Pſ.</hi> 65.5. <hi>By terrible things in righteouſneſs, haſt thou anſwered us, O God of our Salvation.</hi>
+            </p>
+            <p>He fulfills Prayer many times in ſuch a ſtrange way, which will make our hearts to tremble.</p>
+            <p>The Lord appeared to <hi>Job</hi> in the Whirlwind, when he came to comfort him, and juſtifie his Righteous Cauſe againſt his Cenſorious Friends. Thus, the place was ſhaken, when the Apoſtles were filled with the Holy Ghoſt; <hi>Acts</hi> 4.31. So, <hi>Paul</hi> was ſtruck blind, and taken up for dead, when the Lord choſe him to be a Veſſel of Mercy and Honour, to bear his Name before the Gentiles; <hi>Acts</hi> 9.9, 17. Fire came down from Heaven to conſume the Sacrifice, in Atteſtation of Its Acceptance.</p>
+            <pb n="17" facs="tcp:53672:11"/>
+            <p> The higheſt Joys are built on the loweſt and moſt tried Foundation.</p>
+            <p>The deepeſt, moſt boiſterous Inundation of Calamities, ſhall not drown us, if they advance us in Heavenly-mindedneſs: Hereby we ſhall gain the proſpect of Gods Covenant, Mercy and Fidelity, as a Securing Rain-bow about the Throne of Amazing Juſtice.</p>
+            <p n="8">8 <hi>Rule.</hi> Reſerve your paſſing Sentence on the Darkeſt Diſpenſations, until the winding up, in their ultimate Scope and Tendency.</p>
+            <p>As we muſt be Witneſſes of Gods Truth, to the preſent Generation, and Truſtees to tranſ<g ref="char:EOLhyphen"/>mit it pure unto Poſterity; ſo, when Providen<g ref="char:EOLhyphen"/>ces are moſt ſtupendious, we muſt treaſure up Prayers, and antedate Praiſes, for thoſe Salvati<g ref="char:EOLhyphen"/>ons, which God will work in After-ages.</p>
+            <p>We ſhould rejoyce, to think that the Lord will provide more Halcyon days for the Succeſ<g ref="char:EOLhyphen"/>ſive Generations of the World, though our ſelves ſhould fall in the Wilderneſs, and never ſet foot on the <hi>Canaan</hi> of a Deſired Reſt.</p>
+            <p>But fearing, leſt this Day-ſtar may be per<g ref="char:EOLhyphen"/>verted in its benigne Influence, by breeding preſumption, in a ſinful or ſlothful, ſecure ſtate, let it caſt an Aſpect of Caution, in Conjuncti<g ref="char:EOLhyphen"/>on with its comfortable Rays, that none may be miſled by the abuſe thereof.</p>
+            <p n="1">1ſt, Let not Romiſh Doctors expect, that the Sa<g ref="char:EOLhyphen"/>ving
+<pb n="18" facs="tcp:53672:12"/>Light of the Knowledge of God in Chriſt, ſhould beam into them, while they willful<g ref="char:EOLhyphen"/>ly yield themſelves, as Captives to the Power and Prince of Darkneſs; or delight to ſtrengthen a Combination with reſtleſs Atheiſtical Workers of Iniquity.</p>
+            <p>Such are afraid leaſt the light of Gods Truth ſhould diſturb their Security in a Sinful Courſe; yet there is no ſhadow of any pretence, under which Antichriſt may preſume to lie ſafe from that Winged Deſolation which watches to en<g ref="char:EOLhyphen"/>ſnare him.</p>
+            <p>As the Path of the Juſt is like the Morning Light, which ſhines brighter to perfect Serenity in the Conſcience; ſo the Way and Deſigns of the Ungodly ſhall periſh: For theſe, <hi>the Black<g ref="char:EOLhyphen"/>neſs and extremity of Darkneſs, is reſerved for ever.</hi>
+            </p>
+            <p>They may ſportingly preſume to warm them<g ref="char:EOLhyphen"/>ſelves with their own deceitful dying Sparks, kindled out of the Grandeur of the World, and a pompous Falſe Religion; yet, they ſhall lie down in the ſhame of Diſappointment</p>
+            <p>When once an Evening of unexpected Ter<g ref="char:EOLhyphen"/>rors ſhall overtake them, theſe ſhall increaſe to a midnight of deſperate Sorrow in a perfect De<g ref="char:EOLhyphen"/>ſolation.</p>
+            <p n="2">2dly, Let not the Enthuſiaſt pervert this Com<g ref="char:EOLhyphen"/>fortable Promiſe in the Text, as if the Kingdom
+<pb n="19" facs="tcp:53672:12"/>of Chriſt were to be promoted by the Inventi<g ref="char:EOLhyphen"/>on of any Novel Arrogating Opinions, which ſuch Men expect ſhould be idolized for Undubi<g ref="char:EOLhyphen"/>table Maximes.</p>
+            <p>Theſe can never uſher In, thoſe glorious Acceſ<g ref="char:EOLhyphen"/>ſions of Truth and Peace, promiſed to the la<g ref="char:EOLhyphen"/>ter Age of the Chriſtian Churches.</p>
+            <p>Under a Pretence, that, <hi>In the Evening it ſhall be Light.</hi> Scepticks irreverently pry into the Ca<g ref="char:EOLhyphen"/>binet of Gods Secret Counſels.</p>
+            <p>Such, do not with a modeſt ſafety advance in the Search of true Wiſdom, but rather rudely dictate Rules to the Supreme Governour of the World. Proud Dogmatical Spirits, exalt the Phaenomena, or Mock-light of their Wanton Fancies. Under pretence of illuminating others, they deſpiſe the Sacred Inſtitutions of Chriſt, as if thoſe were weak, faint, obſcure, Streams of Light, adapted and fitted, only to the Infant State of Chriſtianity.</p>
+            <p>Such Deceivableneſs of Unrighteouſneſs, flows not from the Father of Lights, but from Romiſh perverting Emiſſaries, the Locuſts of the Pit of Darkneſs.</p>
+            <p n="3">3ly. There is another Caution, I would give to ſuch, who expect the glorious Acceſſion of <hi>Jewiſh Converts</hi> to the Chriſtian Churches.</p>
+            <p>Let them not diſturb Chriſts ſweet repoſe, among the Lillies of Evangelical Vertues, by be<g ref="char:EOLhyphen"/>coming
+<pb n="20" facs="tcp:53672:13"/>Thorns and Briars, to tear and rend in pieces his Seamleſs Coat of Unity and Concord.</p>
+            <p>The Diviſions of Chriſtians among them<g ref="char:EOLhyphen"/>ſelves, obſtructs the Converſion of the <hi>Jews,</hi> are the Engines which <hi>Rome</hi> makes uſe of to bat<g ref="char:EOLhyphen"/>ter down the Bulworks of our Safety. Fiery Conteſts among Proteſtants, ſcare the Wild Sa<g ref="char:EOLhyphen"/>vages from embracing Chriſts Pure Religion. His Healing Influences, as the Sun of Righteouſ<g ref="char:EOLhyphen"/>neſs, cannot ſpread to ſuch Nations, who ſtill remain under the power of Pagan or Popiſh Blindneſs; when they hear that Chriſts Doves quarrel one another with as great bitterneſs of ſpirit as, That whereby Wolves deſignedly prey on the Lords Inheritance.</p>
+            <p>What a ſhame is it, That theſe Lovely Twins of Truth and Peace, ſhould be divorced, when as the Fruits of Righteouſneſs can neither be ſown nor reaped ſo advantageouſly, in a Storm of Paſſion.</p>
+            <p>If we would have Gods Mercy and Truth meet together in fulfilling the Promiſe of our E<g ref="char:EOLhyphen"/>ſtabliſhment, <hi>Let Righteouſneſs and Peace kiſs each other</hi> in our own Breaſts.</p>
+            <p>But if a perverſe ſpirit be mingled among us, all Counſels and Means uſed for Safety, will prove abortive.</p>
+            <p>Let us not by our Animoſities, Jealouſies, and Immoralities, attempt that Deſtruction upon
+<pb n="21" facs="tcp:53672:13"/>our ſelves, which all our Enemies could never yet effect: While the <hi>Jews</hi> ſeverally contended in Parties, they were univerſally overthrown.</p>
+            <p>Many are in expectation of Glorious Promi<g ref="char:EOLhyphen"/>ſes to be fulfilled in the Laſt Age of the World: But we can never become terrible to Antichriſt, till all Antichriſtian Luſts be pulled down in our own hearts, nor till we diſplay the Banner and Beauty of Truth with Unanimity.</p>
+            <p>This will credit, propagate, maintain, and ſecure the Proteſtant Religion and its Profeſſors, in the hearts and eſtimation of all Men: When the Lord ſhall reſtore <hi>Sion</hi> to a more ſettled State, the Worſhippers of his Name, ſhall ſee Eye to Eye; they ſhall agree in the ſame Sentiments of Religion, and in Candour of Affection.</p>
+            <p>In the mean time, while it is only Twilight, among the moſt knowing Chriſtians, let us not reproachfully ſtigmatize one another in thoſe leſs conſiderable Controverſies, which at this day perplex the Chriſtian Churches.</p>
+            <p>The Genuine Spirit and Profeſſion of Chriſts Pure Religion, is full of Meekneſs, and not ſowred with Envy, Malice, nor any proud Par<g ref="char:EOLhyphen"/>tiality in judging of Opinions.</p>
+            <p>It doth not wrangle in a Peremptory aſſerting the Truth lies on the ſide of this or that Party only.</p>
+            <p>Such Claſhing Corruſcations, are Portentous
+<pb n="22" facs="tcp:53672:14"/>Fore-runners of Deſtruction, and not that Di<g ref="char:EOLhyphen"/>vine Light which they pretend to be.</p>
+            <p>They are rather Wild-fire, thrown into the Sanctuary of God, to fill it with Smoke and Clamor.</p>
+            <p>We muſt not turbulently plead for any Truth, tho clear to us, and very conſiderable in it ſelf.</p>
+            <p>This will render our Teſtimony to be ſuſpect<g ref="char:EOLhyphen"/>ed in its Validity and Sincerity. We ought with ſerenity of Mind to wait, till the Father of Lights, ſhall clear up ſuch Myſteries in Religion, which as yet, may be hid from others of Weaker Ap<g ref="char:EOLhyphen"/>prehenſions.</p>
+            <p>Let none therefore out of an Impatient Curi<g ref="char:EOLhyphen"/>oſity, preſumptuouſly obtrude, or irregularly propagate, any private Conceptions, as if they were Indubitable Maximes, to be imbraced by the Implicite Belief of other men</p>
+            <p>The Lord hath promiſed to ſpread the Revela<g ref="char:EOLhyphen"/>tion of Truth in his own Time and Method, thereby to ſuperſede all froward Conteſts and raſh Forwardneſs in any, to diſſeminate their own Opinions, by the Diſturbance of Publick Peace and Order. Let this Conſideration mo<g ref="char:EOLhyphen"/>derate all Conteſts about Circumſtantials in Re<g ref="char:EOLhyphen"/>ligion; <hi>viz.</hi> That the Forcible Birth of Reforma<g ref="char:EOLhyphen"/>tion, is every way as perillous as the Dilatory Production of it.</p>
+            <p>Such who doubt not of their way, muſt not
+<pb n="23" facs="tcp:53672:14"/>proudly contemn Diſſenters. Some are to be pitied in their Errors, when they are not in<g ref="char:EOLhyphen"/>dulged by the neglect of ſearching after Truth. But a diſſembled Compliance, before thorow Conviction, is an Hypocritical Flattery, and will for advantage, ſecretly undermine Foundation Principles. Truth is beſt preſerved, when thoſe who formerly oppoſed it, are convinced of their Error; and then, ſuch ought gladly to become its humble Clients: yea, much rather its bluſhing Captives. With how peaceable Deportment did the very Apoſtles ſpread Evangelical Light to the Idolatrous Nations, that they might win them to the Obedience of Chriſts Scepter. This cauſed them to triumph, in leading the captivity of the Devil captive; foraſmuch as they power<g ref="char:EOLhyphen"/>fully inſinuated the Truth, by the Conviction of an Holy Life, made amiable by the Exempla<g ref="char:EOLhyphen"/>rity of Meekneſs and Heavenly Self-denial.</p>
+            <p>But the ſeparation of Peace from Holineſs, is a ſecret contempt of the God of Truth, and will prove the Carcaſe only of Proſperity.</p>
+            <p>Therefore, let us hold faſt the Myſtery of Faith in a pure Conſcience, as we expect, that the darkeſt Providences ſhould be cleared up to us, in a propitious creating of ſerene and happy times.</p>
+            <p>Often times the Church of Chriſt, which is the Darling of his Providence, becomes a fiery
+<pb n="24" facs="tcp:53672:15"/>Beacon by extremities of Affliction, to warn others, that if the Lord's own People violate their Soul Chaſtity, in not walking according to the Purity of the Chriſtian Faith, even They ſhall ſmart ſeverely for it.</p>
+            <p>Let not the Romiſh Synagogue therefore, boaſt of her pompous Viſibility in her Proſpe<g ref="char:EOLhyphen"/>rous Iniquities. For, though her outward Paint<g ref="char:EOLhyphen"/>ing and Patching in Religion, draw the Wonder of the Nations, before they Wander after her Deceptions; yet Hereſies and Abominations (will in due time) undermine a Semblance of Tranquillity, and Strip her bare, as an Harlot, of all the Ornaments which <hi>cover her</hi> obſtinate Degeneracy.</p>
+            <p>The true Church may be Hid for a time, as a Lilly among Thorns; yet <hi>Rome</hi> in all her Glory is not arrayed like one of thoſe Lillies, when ſtained with Calumny, or rather Beautified with the Blood of Martyrdom.</p>
+            <p>How comely and prevailing with God, for Deliverance in Diſtreſs, are ſilent Penitential Tears, in the Dove-like Eyes of his People; eſpe<g ref="char:EOLhyphen"/>cially when they retain their Integrity, in defend<g ref="char:EOLhyphen"/>ing the Dowry of Truth, and the Standard of Real Holineſs.</p>
+            <p>Light is ſown for the Righteous, and Joy for the Upright in Heart.</p>
+            <p>This ſhall ſecretly ſpring up for ſuch, while
+<pb n="25" facs="tcp:53672:15"/>dark Providences wind themſelves about, in rich Mines of Comfort, through the Labyrinth of their perplexing Doubts and Fears.</p>
+            <p>
+               <hi>Directions.</hi> If we would get a Proſpect of Bright, Serene, and Happy times; obſerve theſe Directions following:</p>
+            <p>
+               <hi>Firſt,</hi> Let the Eye of our Faith be cleared up from Prejudice, and ſteadily fixt upon That vital Influx of Divine Power, Wiſdom, and Fidelity in God, which conſtantly takes care of his Eſpou<g ref="char:EOLhyphen"/>ſed Intereſt, under all thoſe Convulſion-pangs, which ſeem to diſſolve the very Ligaments of Truth and Peace.</p>
+            <p>Faith can fetch a Deſponding Soul to Life, when Deadly Fears aſſault us.</p>
+            <p>Even while we are giving up the Ghoſt of Hope, Mercy may come forth, to meet us with Salvation.</p>
+            <p>Thus the Diſciples cried out, <hi>It is a Spirit,</hi> when Chriſt walked on the Sea toward them, to calm the Storm, and allay the greater Tempeſt (even Fears) in their own Hearts.</p>
+            <p>Thus the darkeſt Seaſon of the Night, immedi<g ref="char:EOLhyphen"/>ately precedes the Dawning of the Day.</p>
+            <p>The thickeſt Throws and Agonies, not only contribute toward, and make Way for, but are the Signal of a Joyful and Speedy Birth.</p>
+            <p>Even Obſtructions (as Divine Wiſdom orders them) ſhall ſmooth the way to Safety.</p>
+            <pb n="26" facs="tcp:53672:16"/>
+            <p> A skilful Archer ſhuts one Eye, to ſtrengthen the Viſive Spirits in the other, that he may more dexterouſly level at the Mark.</p>
+            <p>So, ſuppreſs Carnal Reaſon, as an unfit Judge of Divine Diſpenſations; if you would gain the ſupport of God's Propitiouſneſs under ſeeming Deſolations. We ſhould count our ſelves ſafe, while the Helm is in God's Hand:</p>
+            <p>For though he ſuffers Storms and Difficulties to Encompaſs us; yet, no Engines ſhall ever gain their deſigned Point againſt the Lord's In<g ref="char:EOLhyphen"/>heritance.</p>
+            <p n="2">2. <hi>Direct.</hi> Be wonderfully Affected with, and Thankful for, the Firſt-fruits of Deliverance; <hi>Zech.</hi> 4.10. It is very unbecoming, to deſpiſe the day of ſmall things; yea, it is a great ſin, to pre<g ref="char:EOLhyphen"/>judge the Lords Work, by the firſt view; eſpe<g ref="char:EOLhyphen"/>cially when it is certain, that the Lord reſerves his choiceſt Mercies, as lovely Colours, to be ſuperinduced at laſt, when he is reſolved to ex<g ref="char:EOLhyphen"/>preſs the Beauty of his Providence to the Life; for a Confutation of our impatient Curoſity. A thankful Valuation of the leaſt beam of Light, when all hope of relief ſeemed periſh'd, is the on<g ref="char:EOLhyphen"/>ly way to bring forward Deliverance to Matu<g ref="char:EOLhyphen"/>rity.</p>
+            <p>The Lord doth not undertake Works inſtampt with wonder, to lay them aſide, without any care of bringing them to a Perfect Birth.</p>
+            <pb n="27" facs="tcp:53672:16"/>
+            <p> The wideſt, deepeſt, overflowing Rivers, ſpring from a little Conduit Head.</p>
+            <p>So, <hi>Sions</hi> Salvation goes forth at firſt, like a Lamp only, before it prove a Conſtellation of Bright<g ref="char:EOLhyphen"/>neſs, ſpreading over all the Expanſions of Di<g ref="char:EOLhyphen"/>ſtreſs.</p>
+            <p>During the ſaddeſt Contexture of Providence, the Spiritual Glory of Chriſts Evangelical King<g ref="char:EOLhyphen"/>dom, ſhall never ſet, it ſhall ſpread the more, by Oppoſition; become Illuſtrious by thoſe very Fogs and Miſts, which aſcend out of the Bottom<g ref="char:EOLhyphen"/>leſs Pit of Popiſh Hereſie, Treachery, and Cru<g ref="char:EOLhyphen"/>elty.</p>
+            <p>Thoſe very Prayers which ſeemed loſt, ſhall return loaden with the Richeſt and Choiceſt Mercies. The Lord will beautifie the Meek with Salvation, therefore beg a Spiritual Eye, to take a Proſpect of Deliverance beyond the Limits of Preſent Senſe.</p>
+            <p>Thus <hi>David,</hi> having obtained Gods Word only, for the Conqueſt of his Enemies, trium<g ref="char:EOLhyphen"/>phed before he ſtruck a ſtroke; ſo confident was he of Succeſs.</p>
+            <p>He cried out, Gilead <hi>is mine,</hi> Manaſſe <hi>is mine, over</hi> Edom <hi>will I caſt my Shoe:</hi> Which was a Sign of taking Poſſeſſion of the Promiſe, as if he were actually dividing the Spoil on this and that ſide <hi>Jordan;</hi> becauſe God had ſpoken it in his Holineſs and Veracity.</p>
+            <pb n="28" facs="tcp:53672:17"/>
+            <p> How much more, ſhould we ſtrengthen our Faith, when the Lord makes the leaſt Stricture of Light, an Aſſuring Pledge of the Glorious Perfection of Felicity.</p>
+            <p n="3">3. <hi>Direct.</hi> Lay aſide your Selfiſh Intereſt, and with a ſingle eye aim at the Lords Glory. Thus the Church affirmed, <hi>That even in the way of thy Judgments</hi> (while the Yoke of their Captivity was firmly wreathed about their Necks) <hi>have we wait<g ref="char:EOLhyphen"/>ed for thee, O Lord: The deſire of our ſoul, is to thy Name, and to the remembrance of Thee.</hi> As if they had ſaid, Let us never be delivered, rather than Thy Name ſhould be eclipſed; what-ever becomes of Us, provide for the Imblazoning of thine own Glory.</p>
+            <p>Be content to ſtay in the Furnace, rather than not to have your Droſs ſeparated.</p>
+            <p>Be willing to learn the Myſtery of Divine Recumbency on the Lords Fidelity, though we be tutored to it by the greateſt Exigents.</p>
+            <p>Impatiency of Spirit, is a Signal of Impeni<g ref="char:EOLhyphen"/>tency, that we are not as yet capable of That Mercy, which we ſeek, in the frowardneſs of our Hearts.</p>
+            <p>
+               <hi>Jacob</hi> endured many and ſharp Afflictions, be<g ref="char:EOLhyphen"/>cauſe he fore-ſtalled the Bleſſing by Deceit.</p>
+            <p>When we ſnatch at Mercies, as the fruit of the Promiſe before it be ripe, it breeds the Worm of a Proud Self-conceitedneſs at the Core, or a
+<pb n="29" facs="tcp:53672:17"/>Surfeit of Senſuality, in abuſe of the Choiceſt Manna.</p>
+            <p>It is the Property of a Proud Hypocrite, to be Ptiſical in Prayer, and not able to wait for Gods Salvation.</p>
+            <p>But an humble Patience, which believes In Hope againſt Hope, is as a Branch of the Myrrhe Tree, which (ſome report) preſerves Travellers from tyring and fainting, though they walk tho<g ref="char:EOLhyphen"/>row the Valley of moſt Deadly Snares and Fears.</p>
+            <p n="4">4. <hi>Direct.</hi> Submit to the Lords Method of Carrying on his Own Work, though the Means ſeem very unlikely, weak, and contemptible, yea contrariant to that Model, which we have fooliſhly fore-caſt in our Carnal Wiſdom.</p>
+            <p>Shall the weak Potſherds of the Earth, diſpute Gods Sovereign Wiſdom and Authority, when they ſhould comply with his ſevereſt Diſpenſa<g ref="char:EOLhyphen"/>tions?</p>
+            <p>It is the undoubted Priviledge of every wiſe Man, to diſpoſe of the Concernments of his own Family, as Himſelf pleaſes.</p>
+            <p>And ſhall we not ſubmit to God, who is un<g ref="char:EOLhyphen"/>controulable in Majeſty, and unaccountable in his holy and righteous ſetting out the various Schemes of his Providence, in all the Circum<g ref="char:EOLhyphen"/>ſtanees of our Pilgrimage? Shall we reject his Conduct, in diſpoſing of the Affairs of Nations?</p>
+            <p>Shall the Shallows of our reaſon, prompt us to
+<pb n="30" facs="tcp:53672:18"/>repine, whereas all Creatures obey the Law of their Natural Inſtinct, and wait upon the Lord for his Bleſſing, in the Execution of their vari<g ref="char:EOLhyphen"/>ous Offices.</p>
+            <p>Yea thoſe Creatures, which have an Antipa<g ref="char:EOLhyphen"/>thy each to other, yet are wiſely and calmly o<g ref="char:EOLhyphen"/>ver-ruled, by a Divine Inviſible Hand; ſo that they conſpire, in promoting the Harmonious Stability of the Creation, for a Common Uni<g ref="char:EOLhyphen"/>verſal Benefit.</p>
+            <p>If the Lords Providence condeſcends exactly to number the very Hairs of our Head, can we (in reaſon) think that he will make a Spoil of Kingdoms, in toſſing them from the Center of their Tranquillity, without juſt Demerit in us, or Reluctancy in Himſelf?</p>
+            <p>Get an Intereſt therefore, in the Unchangea<g ref="char:EOLhyphen"/>ble Love of God; then you will be above the Reach and Hurt of every Outward Change.</p>
+            <p n="5">5. <hi>Direct.</hi> Put the Promiſes in Suit. The Lord ſtirs up a mighty Spirit of Prayer, before he ex<g ref="char:EOLhyphen"/>cites Himſelf to create Deliverance for his Affli<g ref="char:EOLhyphen"/>cted Churches.</p>
+            <p>Would we have him awake, and make bare his Arm for our Relief and Defence; We muſt rouze up our ſelves from our Security, and ſtand up to our Duty.</p>
+            <p>
+               <hi>Jacob</hi>'s Example and Succeſs, who would not deſiſt wreſtling, though he limpt, may provoke
+<pb n="31" facs="tcp:53672:18"/>Us to Zeal in Prayer: He well knew, that after a Tedious Night ſpent in Tears and Supplicati<g ref="char:EOLhyphen"/>on, the Morning would dawn in a Solemn Bleſſing.</p>
+            <p>Let our Zeal, like His, be confirmed by op<g ref="char:EOLhyphen"/>poſition; and it is very probable, that This Gene<g ref="char:EOLhyphen"/>ration ſhall ſurvive, to ſee <hi>Rome</hi> buried in That Deſolation, which She contrives for Others: How did a Dark Night of Diſtreſs lately involve us, while Antichriſt deſigned (as a Dying Beaſt bites fierceſt) to have ſlain the Witneſſes of Chriſts pure Religion?</p>
+            <p>Yet how wonderfully are Magiſtracy and Mi<g ref="char:EOLhyphen"/>niſtry preſerved, in the free Exerciſe of their Fun<g ref="char:EOLhyphen"/>ctions, becauſe Chriſt overſhadows thoſe Myſti<g ref="char:EOLhyphen"/>cal Stars in his Right Hand, and binds them as an honourable Signet on his Arm.</p>
+            <p>Bleſſed be God, who hath turned the Dark Evening into a Day of Jubilee, by the diſap<g ref="char:EOLhyphen"/>pointment of ſuch an unparallel'd Conſpiracy.</p>
+            <p>What now Remains, but that we ſhould re<g ref="char:EOLhyphen"/>ſolve to continue Loyal to God, and his Vice<g ref="char:EOLhyphen"/>gerent, in the Face and Diſpight of the greateſt Dangers.</p>
+            <p>Thus Stars ſhine brighteſt in the darkeſt Night. Let us hold On, in an even, ſteady, chearful Courſe of Righteouſneſs, notwithſtanding the virulent Reproaches of the Common Enemy.</p>
+            <p>This Viper of Detraction, ſhall not always
+<pb n="32" facs="tcp:53672:19"/>Infeſt the Churches Peace and Reputation, but ſhall Swell only, till it burſt it ſelf, and be caſt into the Fire.</p>
+            <p>A right-bred Faith, can digeſt Difficulties, and Extremities of Danger, by turning them in<g ref="char:EOLhyphen"/>to Arguments of Stability; yea, into the brisk Spirits of Triumphant Joy.</p>
+            <p>But then let us remember, That Preſervati<g ref="char:EOLhyphen"/>ons prove not real Mercies, but Snares, if not improved by a wiſe, circumſpect, and holy Converſation.</p>
+            <p>An humble, heavenly Frame, can only ſweet<g ref="char:EOLhyphen"/>en the bittereſt Diſpenſations by Contentment; as alſo preſerve us from a ſurfeit of Pride and Senſuality, in the higheſt float of Earthly Peace and Felicity.</p>
+            <p n="6">6ly, And laſtly, Pay thoſe Vows of Self-reſig<g ref="char:EOLhyphen"/>nation, which you made when your Lives hung in Doubt and Suſpence, becauſe God had no more Aſſurance of your Love and Obedience.</p>
+            <p>We are uſually very Gracious by fits, when Pangs of Diſtreſs are upon us: Then, like <hi>Neph<g ref="char:EOLhyphen"/>thaly,</hi> we give goodly Words, fair Promiſes of Reformation; yet, ſet at Liberty, we ſoon wax wanton like a wild Hind, and will not be confi<g ref="char:EOLhyphen"/>ned within the Verge of God's Righteous Laws.</p>
+            <p>But there muſt be a new Creation within us, if we would have the Lord work a new Salva<g ref="char:EOLhyphen"/>tion for us.</p>
+            <pb n="33" facs="tcp:53672:19"/>
+            <p> Though our Deliverance ſeemed to have been wrought in a Dream, It was ſo wonderful; yet our ſelves, muſt not continue under the Lethar<g ref="char:EOLhyphen"/>gie of an Impenitent Security.</p>
+            <p>If any man ſhall preſume to ſtrentghen him<g ref="char:EOLhyphen"/>ſelf in his Wickedneſs, and yet expect, that the Lord ſhould ſave him in Diſtreſs, he puts a no<g ref="char:EOLhyphen"/>torious Cheat upon himſelf.</p>
+            <p>The Promiſe of Deliverance, ſhall become as a Vaniſhing-Night-Viſion unto ſuch.</p>
+            <p>Let us therefore, being delivered from our Enemies round about, Edifie our ſelves in our ho<g ref="char:EOLhyphen"/>ly Faith, and walk in the Fear of the Lord, as Incompaſt with the Comforts of his Salvation.</p>
+            <p>Would we have the Lord's Fidelity, go forth as a Lamp of Brightneſs for <hi>Sion</hi>'s ſafety? Let us put our ſelves to the Bluſh for our Undutifulneſs, and multiplied Provocations againſt the Holy One.</p>
+            <p>So will the Lord appear in the Glory of all his Attributes, to build us up, with Stability in Church and State.</p>
+            <p>He ſhall make us become, not only Formida<g ref="char:EOLhyphen"/>ble to our Adverſaries, but alſo a Bulwark of Defence to Others in Diſtreſs.</p>
+            <p>Then ſhall it be Verified of <hi>England</hi> (as of <hi>Sion</hi>) that God is in the midſt of Her: There<g ref="char:EOLhyphen"/>fore, he will help Her right early; He will ſur<g ref="char:EOLhyphen"/>round her with his Mercy as with a Shield; till
+<pb n="34" facs="tcp:53672:20"/>She become the Perfection of Beauty, the Praiſe and Joy of the whole Earth: To which State of Safety and Renown the Father of Lights conduct us, for the Merits ſake of our Bleſſed Redeemer; to whom with the Holy Spirit of Truth, Unity, and Concord, be aſcribed (as moſt due is) all Honour, Praiſe, Dominion, and Obedience, now and forever. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Title r. <hi>ſuperſede,</hi> P. 29. l. 7. read <hi>Myrtle,</hi> l. 29. r. <hi>Shallowneſs</hi>
+            </p>
+            <pb facs="tcp:53672:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
